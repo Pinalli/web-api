@@ -1,5 +1,5 @@
-# web-api
-# Projeto Spring Web API e Swagger
+# API REST
+# Projeto Spring Web
 
 ## Estruturado com o Controller
 
